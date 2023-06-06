@@ -9,6 +9,7 @@ root.render(
   <React.StrictMode>
     <Khidma /> {/* Remplacez "App" par le nom de votre composant principal */}
   </React.StrictMode>
+  
 );
 
 reportWebVitals();
