@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Khidmavitrine/static/css/main.8d54c2d8.css",
+    "main.js": "/Khidmavitrine/static/js/main.4158d4f8.js",
+    "static/js/787.3b0e2e7a.chunk.js": "/Khidmavitrine/static/js/787.3b0e2e7a.chunk.js",
+    "static/media/PHONE.png": "/Khidmavitrine/static/media/PHONE.96d1fea1b950570b38fc.png",
+    "static/media/play.png": "/Khidmavitrine/static/media/play.8ad8d82446edc0d45927.png",
+    "static/media/app.png": "/Khidmavitrine/static/media/app.d5fcfc548a44ff6e480a.png",
+    "index.html": "/Khidmavitrine/index.html",
+    "main.8d54c2d8.css.map": "/Khidmavitrine/static/css/main.8d54c2d8.css.map",
+    "main.4158d4f8.js.map": "/Khidmavitrine/static/js/main.4158d4f8.js.map",
+    "787.3b0e2e7a.chunk.js.map": "/Khidmavitrine/static/js/787.3b0e2e7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d54c2d8.css",
+    "static/js/main.4158d4f8.js"
+  ]
+}
